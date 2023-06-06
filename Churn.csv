@@ -1,0 +1,31 @@
+Gender,SeniorCitizen,Partner,Dependents,InternetService,Contract,Churn
+Female,No,Yes,No,DSL,Month-to-month,No
+Male,No,No,No,DSL,One year,No
+Male,No,No,No,DSL,Month-to-month,Yes
+Male,No,No,No,DSL,One year,No
+Female,No,No,No,Fiber optic,Month-to-month,Yes
+Female,No,No,No,Fiber optic,Month-to-month,Yes
+Male,No,No,Yes,Fiber optic,Month-to-month,No
+Female,No,No,No,DSL,Month-to-month,No
+Female,No,Yes,No,Fiber optic,Month-to-month,Yes
+Male,No,No,Yes,DSL,One year,No
+Male,No,Yes,Yes,DSL,Month-to-month,No
+Male,No,Yes,No,Fiber optic,One year,No
+Male,No,No,No,Fiber optic,Month-to-month,Yes
+Male,No,No,No,Fiber optic,Month-to-month,No
+Female,No,Yes,Yes,Fiber optic,Two year,No
+Male,No,No,Yes,Fiber optic,Two year,No
+Female,No,Yes,Yes,DSL,Month-to-month,Yes
+Female,No,No,No,Fiber optic,Month-to-month,No
+Male,Yes,No,No,DSL,Month-to-month,Yes
+Female,No,Yes,No,DSL,Two year,No
+Male,No,Yes,Yes,DSL,Month-to-month,No
+Female,No,No,No,DSL,Month-to-month,No
+Male,No,Yes,Yes,Fiber optic,Month-to-month,Yes
+Male,No,Yes,Yes,DSL,Month-to-month,Yes
+Male,No,Yes,No,DSL,Two year,No
+Female,No,No,Yes,DSL,Month-to-month,Yes
+Female,Yes,Yes,No,Fiber optic,Two year,No
+Male,Yes,Yes,No,Fiber optic,Month-to-month,No
+Female,No,Yes,Yes,DSL,One year,No
+Male,No,No,Yes,Fiber optic,Two year,No
